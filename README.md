@@ -25,4 +25,4 @@
 ## 📸 화면 예시
 <img width="401" height="224" alt="image" src="https://github.com/user-attachments/assets/ebf404e7-4b78-4d1a-b6f8-1f658130f91d" />
 
-![Uploading image.png…]()
+<img width="177" height="227" alt="image" src="https://github.com/user-attachments/assets/39e08cd8-d96d-4783-9ac2-d117a4f4f306" />
